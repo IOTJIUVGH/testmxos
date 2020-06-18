@@ -41,7 +41,6 @@ int main(void)
 
 	/* Output on debug serial port */
 	app_log("Hello world!");
-	app_log("Hello world!");
 
 	return 0;
 }
